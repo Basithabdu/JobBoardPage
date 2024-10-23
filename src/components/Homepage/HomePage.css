@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    .input-group {
+      flex-direction: column;
+    }
+  
+    .card {
+      margin-bottom: 20px;
+    }
+  
+    h2, p {
+      font-size: 1.25rem;
+    }
+  }
+
+  
+  
